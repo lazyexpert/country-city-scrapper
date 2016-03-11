@@ -6,7 +6,6 @@ var async = require('async')
 
 COUNTRIES = []
 FUNCTIONS = []
-CITIES = []
 
 get("http://geo.koltyrin.ru/eng_country_list.php", function(err, data) {
   if(err) throw err
@@ -32,29 +31,24 @@ get("http://geo.koltyrin.ru/eng_country_list.php", function(err, data) {
           var cities = data.match(/weight:bold;'>([^<]+|[\s\S]+)/g)
           cities.forEach(city => {
             var name = city.match(/>(.*)/)[1]
-            CITIES.push({
-              city : name,
-              country : country
-            })
 
-            db.city.insert({
-              "city" : name,
-              "country" : country
-            })
+            if( name.length < 50 ){
+              db.city.insert({
+                "city" : name,
+                "country" : country
+              }).then(function(data) {
+                callback(null)
+              }).catch(function(err) {
+                callback(err)
+              })
+            }
           })
-
-          callback(null)
         })
       }
     )
   })
 
   async.parallel(FUNCTIONS, function() {
-
-    console.log(CITIES.length)
-
-    CITIES = CITIES.filter( city => city.city.length < 50 && city.country.length < 50)
-
-    console.log(CITIES.length)
+    console.log("finished")
   })
 })
