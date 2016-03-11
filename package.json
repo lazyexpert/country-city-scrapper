@@ -1,0 +1,24 @@
+{
+  "name": "country-city-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^1.5.2",
+    "promised-mongo": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazyexpert/country-city-scrapper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lazyexpert/country-city-scrapper/issues"
+  },
+  "homepage": "https://github.com/lazyexpert/country-city-scrapper#readme"
+}
