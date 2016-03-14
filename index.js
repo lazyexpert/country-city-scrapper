@@ -1,7 +1,7 @@
-const pmongo = require('promised-mongo');
-const db = pmongo('skill', ['country', 'city']);
-
 var get = require('./modules/getPage')
+var parser = require('./modules/parser')
+var db = require('./modules/dbDriver')
+
 var async = require('async')
 
 COUNTRIES = []
@@ -10,45 +10,28 @@ FUNCTIONS = []
 get("http://geo.koltyrin.ru/eng_country_list.php", function(err, data) {
   if(err) throw err
 
-  COUNTRIES = data
-    .match(/<p>(.*)<\/p>/)[1]
-    .split("</a>")
-    .filter(el => /href/.test(el))
-    .map( el => el.match(/eng_.*country=([^']+)/)[1] )
+  // Parse html for country list
+  COUNTRIES = parser.getCountryList(data)
 
-  // Collect functions for async
-  COUNTRIES.forEach( name => {
-    FUNCTIONS.push(
-      function(callback) {
-        get("http://geo.koltyrin.ru/city.php?country=" + name, function(err, data) {
-          if(err) throw err
 
-          db.country.insert({
-            "name" : name
-          })
+  COUNTRIES.forEach( countryName => {
 
-          var country = data.match(/h1[^>]*>(.*)<\/h1/,'gmi')[1]
-          var cities = data.match(/weight:bold;'>([^<]+|[\s\S]+)/g)
-          cities.forEach(city => {
-            var name = city.match(/>(.*)/)[1]
+    // addCountry to database
+    db.addCountry(countryName)
 
-            if( name.length < 50 ){
-              db.city.insert({
-                "city" : name,
-                "country" : country
-              }).then(function(data) {
-                callback(null)
-              }).catch(function(err) {
-                callback(err)
-              })
-            }
-          })
-        })
-      }
-    )
+    // Collect functions for async
+    FUNCTIONS.push( callback =>
+        get("http://geo.koltyrin.ru/city.php?country=" + countryName, function(err, data) {
+          if(err) return callback(err)
+
+          parser.getCityList(data)
+            .forEach(cityName => db.addCity(cityName, countryName, callback) )
+
+        }))
+
   })
 
-  async.parallel(FUNCTIONS, function() {
-    console.log("finished")
-  })
+  // Execute async functions
+  async.parallel(FUNCTIONS, () => console.log("finished") )
+
 })

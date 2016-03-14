@@ -1,197 +1,197 @@
-{"_id":{"$oid":"56e2d44a1ab8865d1a6d44ef"},"name":"Afghanistan"}
-{"_id":{"$oid":"56e2d44a1ab8865d1a6d4510"},"name":"Albania"}
-{"_id":{"$oid":"56e2d44a1ab8865d1a6d452e"},"name":"Abkhazia"}
-{"_id":{"$oid":"56e2d44a1ab8865d1a6d4538"},"name":"Antigua and Barbuda"}
-{"_id":{"$oid":"56e2d44a1ab8865d1a6d4543"},"name":"Angola"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d4587"},"name":"Algeria"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d45c8"},"name":"Armenia"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d45f9"},"name":"Austria"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d466e"},"name":"Australia"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d46c7"},"name":"Azerbaijan"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d470a"},"name":"Argentina"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d488d"},"name":"Barbados"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d4893"},"name":"Andorra"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d48ab"},"name":"Bahrain"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d48c6"},"name":"Bahamas"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d48d1"},"name":"Belize"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d48db"},"name":"Benin"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d48eb"},"name":"Bosnia and Herzegovina"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d4929"},"name":"Bhutan"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d4934"},"name":"Botswana"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d4987"},"name":"Bolivia"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d49bd"},"name":"Belgium"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d4a44"},"name":"Belarus"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d4ab6"},"name":"Bangladesh"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d4c7b"},"name":"Brazil"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d4cf0"},"name":"Brunei"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d4cf7"},"name":"Central African Republic"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d4d1d"},"name":"Cape Verde"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d4d26"},"name":"Cameroon"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d4d52"},"name":"Burkina Faso"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d4d7e"},"name":"Canada"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d4de3"},"name":"Cambodia"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d4dfd"},"name":"Bulgaria"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d4eff"},"name":"Burundi"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d4f11"},"name":"Costa Rica"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d4f48"},"name":"Chile"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d4f79"},"name":"Comoros"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d4f8e"},"name":"Congo"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d4fba"},"name":"Chad"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d4fcf"},"name":"China"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d5004"},"name":"Cote dIvoire"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d501d"},"name":"Croatia"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d50a1"},"name":"Denmark"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d50c0"},"name":"Cyprus"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d50cc"},"name":"Cuba"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d5109"},"name":"Djibouti"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d511b"},"name":"Dominica"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d5126"},"name":"East Timor"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d5136"},"name":"Ecuador"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d5159"},"name":"Dominican Republic"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d5199"},"name":"DR Congo"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d51ac"},"name":"Eritrea"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d51bc"},"name":"Equatorial Guinea"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d51c5"},"name":"Estonia"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d51f5"},"name":"Egypt"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d52b4"},"name":"Ethiopia"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d52dc"},"name":"Czech Republic"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d5463"},"name":"Federated States of Micronesia"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d5469"},"name":"El Salvador"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d5481"},"name":"Fiji"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d5493"},"name":"Gabon"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d54b4"},"name":"Finland"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d5520"},"name":"Georgia"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d5558"},"name":"Gambia"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d5566"},"name":"Ghana"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d55b6"},"name":"France"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d5769"},"name":"Colombia"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d5bc9"},"name":"Guyana"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d5bd5"},"name":"Guinea-Bissau"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d5be5"},"name":"Haiti"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d5bf9"},"name":"Honduras"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d5c1e"},"name":"Guinea"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d5c3a"},"name":"Grenada"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d5c42"},"name":"Greece"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d5c91"},"name":"Guatemala"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d5caa"},"name":"Iceland"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d5cc3"},"name":"Hungary"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d5cdc"},"name":"Iran"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d5cf8"},"name":"Iraq"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d5d21"},"name":"Indonesia"}
-{"_id":{"$oid":"56e2d44b1ab8865d1a6d5d32"},"name":"Ireland"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d5d88"},"name":"Lesotho"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d5d96"},"name":"Libya"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d5dc0"},"name":"Liberia"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d5dd0"},"name":"Kiribati"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d5dde"},"name":"Kyrgyzstan"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d5e12"},"name":"Kazakhstan"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d5e6a"},"name":"Italy"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d5f16"},"name":"Israel"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d5f62"},"name":"Jordan"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d5f8b"},"name":"Malawi"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d5f9c"},"name":"Malaysia"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d5fac"},"name":"Madagascar"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d5ff1"},"name":"Maldives"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d6002"},"name":"Mali"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d601b"},"name":"Kenya"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d6080"},"name":"Latvia"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d60cd"},"name":"Lebanon"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d60d3"},"name":"Macedonia"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d60ff"},"name":"Liechtenstein"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d610d"},"name":"Laos"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d6122"},"name":"Kuwait"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d6126"},"name":"Mauritius"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d613b"},"name":"Luxembourg"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d6149"},"name":"Moldova"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d618b"},"name":"Monaco"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d6190"},"name":"Mongolia"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d61b0"},"name":"Mexico"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d6224"},"name":"Lithuania"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d628c"},"name":"Morocco"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d62d3"},"name":"Montenegro"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d62e9"},"name":"Myanmar"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d630e"},"name":"Mozambique"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d6324"},"name":"Namibia"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d6331"},"name":"Nauru"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d6336"},"name":"Netherlands"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d635f"},"name":"Nepal"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d6397"},"name":"Nigeria"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d63e3"},"name":"Nicaragua"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d6412"},"name":"New Zealand"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d642d"},"name":"Niger"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d6447"},"name":"Norway"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d64a9"},"name":"Jamaica"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d64cd"},"name":"North Korea"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d64e7"},"name":"Oman"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d64f6"},"name":"Pakistan"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d650b"},"name":"Palau"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d6510"},"name":"Panama"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d6526"},"name":"India"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d6ac2"},"name":"Germany"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d72b1"},"name":"Portugal"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d7347"},"name":"Japan"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d7654"},"name":"Paraguay"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d7677"},"name":"Poland"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d79f8"},"name":"Qatar"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d7a0b"},"name":"Papua New Guinea"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d7a34"},"name":"Romania"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d7b3f"},"name":"Marshall Islands"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d7b42"},"name":"Rwanda"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d7b51"},"name":"Philippines"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d7b66"},"name":"Peru"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d7bba"},"name":"Russia"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d8022"},"name":"Saint Kitts and Nevis"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d8029"},"name":"Saint Lucia"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d802d"},"name":"Saint Vincent and the Grenadines"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d8035"},"name":"Sao Tome and Principe"}
-{"_id":{"$oid":"56e2d44c1ab8865d1a6d8033"},"name":"Samoa"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d803e"},"name":"San Marino"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d8048"},"name":"Senegal"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d805a"},"name":"Saudi Arabia"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d8079"},"name":"Sierra Leone"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d808e"},"name":"Seychelles"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d8091"},"name":"Somalia"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d80a3"},"name":"South Korea"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d80c9"},"name":"South Ossetia"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d80cf"},"name":"Malta"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d8113"},"name":"South Africa"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d8132"},"name":"South Sudan"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d813c"},"name":"Solomon Islands"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d8144"},"name":"Mauritania"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d8162"},"name":"Sudan"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d817d"},"name":"Singapore"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d817f"},"name":"Slovenia"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d81b0"},"name":"Sri Lanka"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d81ee"},"name":"Suriname"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d81fd"},"name":"Swaziland"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d820c"},"name":"Serbia"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d82ba"},"name":"Vietnam"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d82f8"},"name":"Thailand"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d8312"},"name":"Tonga"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d831c"},"name":"Vatican"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d831e"},"name":"Tajikistan"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d8330"},"name":"Togo"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d8345"},"name":"Zimbabwe"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d835a"},"name":"Turkey"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d8378"},"name":"Switzerland"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d842c"},"name":"Vanuatu"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d843f"},"name":"Trinidad and Tobago"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d8445"},"name":"Zambia"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d845a"},"name":"Turkmenistan"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d8472"},"name":"Slovakia"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d84fd"},"name":"Uzbekistan"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d850f"},"name":"Tunisia"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d851d"},"name":"Syria"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d852d"},"name":"United Kingdom"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d8623"},"name":"Uruguay"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d866d"},"name":"Yemen"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d868b"},"name":"Tanzania"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d86a0"},"name":"Tuvalu"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d86aa"},"name":"Uganda"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d86c1"},"name":"United Arab Emirates"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d86cb"},"name":"Venezuela"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d8750"},"name":"United States of America"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d8862"},"name":"Ukraine"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d8a1a"},"name":"Spain"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d8bac"},"name":"Sweden"}
-{"_id":{"$oid":"56e2d44d1ab8865d1a6d8c0d"},"name":"State of Palestine"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac12"},"name":"Abkhazia"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac13"},"name":"Afghanistan"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac14"},"name":"Albania"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac15"},"name":"Algeria"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac16"},"name":"Andorra"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac17"},"name":"Angola"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac18"},"name":"Antigua and Barbuda"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac19"},"name":"Argentina"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac1a"},"name":"Armenia"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac1b"},"name":"Australia"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac1c"},"name":"Austria"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac1d"},"name":"Azerbaijan"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac1e"},"name":"Bahamas"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac1f"},"name":"Bahrain"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac20"},"name":"Bangladesh"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac21"},"name":"Barbados"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac22"},"name":"Belarus"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac23"},"name":"Belgium"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac24"},"name":"Belize"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac25"},"name":"Benin"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac26"},"name":"Bhutan"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac27"},"name":"Bolivia"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac28"},"name":"Bosnia and Herzegovina"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac29"},"name":"Botswana"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac2a"},"name":"Brazil"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac2b"},"name":"Brunei"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac2c"},"name":"Bulgaria"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac2d"},"name":"Burkina Faso"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac2e"},"name":"Burundi"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac2f"},"name":"Cambodia"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac30"},"name":"Cameroon"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac31"},"name":"Canada"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac32"},"name":"Cape Verde"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac33"},"name":"Central African Republic"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac34"},"name":"Chad"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac35"},"name":"Chile"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac36"},"name":"China"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac37"},"name":"Colombia"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac39"},"name":"Congo"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac3a"},"name":"Costa Rica"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac3b"},"name":"Cote dIvoire"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac38"},"name":"Comoros"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac3c"},"name":"Croatia"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac3d"},"name":"Cuba"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac3e"},"name":"Cyprus"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac3f"},"name":"Czech Republic"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac40"},"name":"Denmark"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac41"},"name":"Djibouti"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac42"},"name":"Dominica"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac43"},"name":"Dominican Republic"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac44"},"name":"DR Congo"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac45"},"name":"East Timor"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac46"},"name":"Ecuador"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac47"},"name":"Egypt"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac48"},"name":"El Salvador"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac49"},"name":"Equatorial Guinea"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac4a"},"name":"Eritrea"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac4b"},"name":"Estonia"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac4c"},"name":"Ethiopia"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac4d"},"name":"Federated States of Micronesia"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac4e"},"name":"Fiji"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac4f"},"name":"Finland"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac50"},"name":"France"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac51"},"name":"Gabon"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac52"},"name":"Gambia"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac53"},"name":"Georgia"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac54"},"name":"Germany"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac55"},"name":"Ghana"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac56"},"name":"Greece"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac57"},"name":"Grenada"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac58"},"name":"Guatemala"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac59"},"name":"Guinea"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac5a"},"name":"Guinea-Bissau"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac5b"},"name":"Guyana"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac5c"},"name":"Haiti"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac5d"},"name":"Honduras"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac5e"},"name":"Hungary"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac5f"},"name":"Iceland"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac60"},"name":"India"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac61"},"name":"Indonesia"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac62"},"name":"Iran"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac63"},"name":"Iraq"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac64"},"name":"Ireland"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac65"},"name":"Israel"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac66"},"name":"Italy"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac67"},"name":"Jamaica"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac68"},"name":"Japan"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac69"},"name":"Jordan"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac6a"},"name":"Kazakhstan"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac6b"},"name":"Kenya"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac6c"},"name":"Kiribati"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac6d"},"name":"Kuwait"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac6e"},"name":"Kyrgyzstan"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac6f"},"name":"Laos"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac70"},"name":"Latvia"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac71"},"name":"Lebanon"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac72"},"name":"Lesotho"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac73"},"name":"Liberia"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac74"},"name":"Libya"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac75"},"name":"Liechtenstein"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac76"},"name":"Lithuania"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac77"},"name":"Luxembourg"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac78"},"name":"Macedonia"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac79"},"name":"Madagascar"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac7a"},"name":"Malawi"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac7b"},"name":"Malaysia"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac7c"},"name":"Maldives"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac7d"},"name":"Mali"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac7e"},"name":"Malta"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac7f"},"name":"Marshall Islands"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac80"},"name":"Mauritania"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac81"},"name":"Mauritius"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac82"},"name":"Mexico"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac83"},"name":"Moldova"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac84"},"name":"Monaco"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac85"},"name":"Mongolia"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac86"},"name":"Montenegro"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac87"},"name":"Morocco"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac88"},"name":"Mozambique"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac89"},"name":"Myanmar"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac8a"},"name":"Namibia"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac8b"},"name":"Nauru"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac8c"},"name":"Nepal"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac8d"},"name":"Netherlands"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac8e"},"name":"New Zealand"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac8f"},"name":"Nicaragua"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac90"},"name":"Niger"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac91"},"name":"Nigeria"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac92"},"name":"North Korea"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac93"},"name":"Norway"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac94"},"name":"Oman"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac95"},"name":"Pakistan"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac96"},"name":"Palau"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac97"},"name":"Panama"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac98"},"name":"Papua New Guinea"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac99"},"name":"Paraguay"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac9a"},"name":"Peru"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac9b"},"name":"Philippines"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac9c"},"name":"Poland"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac9d"},"name":"Portugal"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac9e"},"name":"Qatar"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355ac9f"},"name":"Romania"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355aca0"},"name":"Russia"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355aca1"},"name":"Rwanda"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355aca2"},"name":"Saint Kitts and Nevis"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355aca3"},"name":"Saint Lucia"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355aca4"},"name":"Saint Vincent and the Grenadines"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355aca5"},"name":"Samoa"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355aca6"},"name":"San Marino"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355aca7"},"name":"Sao Tome and Principe"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355aca8"},"name":"Saudi Arabia"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355aca9"},"name":"Senegal"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acaa"},"name":"Serbia"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acab"},"name":"Seychelles"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acac"},"name":"Sierra Leone"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acad"},"name":"Singapore"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acae"},"name":"Slovakia"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acaf"},"name":"Slovenia"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acb0"},"name":"Solomon Islands"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acb1"},"name":"Somalia"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acb2"},"name":"South Africa"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acb3"},"name":"South Korea"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acb4"},"name":"South Ossetia"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acb5"},"name":"South Sudan"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acb6"},"name":"Spain"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acb7"},"name":"Sri Lanka"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acb8"},"name":"State of Palestine"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acb9"},"name":"Sudan"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acba"},"name":"Suriname"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acbb"},"name":"Swaziland"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acbc"},"name":"Sweden"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acbd"},"name":"Switzerland"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acbe"},"name":"Syria"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acbf"},"name":"Tajikistan"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acc0"},"name":"Tanzania"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acc1"},"name":"Thailand"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acc2"},"name":"Togo"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acc3"},"name":"Tonga"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acc4"},"name":"Trinidad and Tobago"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acc5"},"name":"Tunisia"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acc6"},"name":"Turkey"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acc7"},"name":"Turkmenistan"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acc8"},"name":"Tuvalu"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acc9"},"name":"Uganda"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acca"},"name":"Ukraine"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355accb"},"name":"United Arab Emirates"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355accc"},"name":"United Kingdom"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355accd"},"name":"United States of America"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acce"},"name":"Uruguay"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355accf"},"name":"Uzbekistan"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acd0"},"name":"Vanuatu"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acd1"},"name":"Vatican"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acd2"},"name":"Venezuela"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acd3"},"name":"Vietnam"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acd4"},"name":"Yemen"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acd5"},"name":"Zambia"}
+{"_id":{"$oid":"56e6bb851c8ce1ab1355acd6"},"name":"Zimbabwe"}
